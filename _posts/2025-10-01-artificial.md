@@ -1,5 +1,5 @@
 ---
-title: Artificial [HTB]
+title: Artificial
 date: 2025-10-01
 categories: [HTB, Linux]
 tags: [HTB, Easy]
