@@ -1,10 +1,16 @@
 ---
-layout: page
+layout: null
 ---
 
-<meta http-equiv="refresh" content="0; url={{ page.redirect }}">
-<link rel="canonical" href="{{ page.redirect }}">
-
-<script>
-window.location.replace("{{ page.redirect }}");
-</script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}">
+  <script>
+    window.location.replace("{{ page.redirect }}");
+  </script>
+</head>
+<body>
+  Redirecting...
+</body>
+</html>
