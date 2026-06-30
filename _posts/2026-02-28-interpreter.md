@@ -1,6 +1,3 @@
-# Interpreter
-
-```
 ---
 title: Interpreter
 date: 2026-02-28
@@ -9,7 +6,6 @@ tags: [HTB, Medium]
 description: Writeup for the HackTheBox machine "Interpreter"
 excerpt_separator: <!--more-->
 ---
-```
 
 I started enumeration after adding `10.129.8.223 interpreter.htb` to `/etc/hosts`
 
